@@ -9,14 +9,14 @@ Projeto Hotel em Python
 1. Faça um programa para controle de reservas do hotel para 
 com o seguinte menu:
 (a) Reserva de quartos
- Perguntar quarto de preferência (single, duplo, triplo, 
+> Perguntar quarto de preferência (single, duplo, triplo, 
 suíte presidencial)
- Informar os valores dos quartos.
- Confirmar se disponível e reservar (senão, informar a 
+> Informar os valores dos quartos.
+> Confirmar se disponível e reservar (senão, informar a 
 indisponibilidade e voltar ao menu).
- Adiciona o nome e os dias da reserva no quarto e o 
+> Adiciona o nome e os dias da reserva no quarto e o 
 preço total.
- Prazo: 27 de Novembro de 2015.
+> Prazo: 27 de Novembro de 2015.
 
 Adicionais:
 (b) listar quartos disponíveis.
